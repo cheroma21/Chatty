@@ -32,4 +32,4 @@ Released under the [BSD license](http://www.opensource.org/licenses/BSD-3-Clause
 
 Deploy
 ---
-https://githubsfdeploy-sandbox.herokuapp.com/app/githubdeploy/cheroma21/Chatty-2.0
+https://githubsfdeploy.herokuapp.com/
