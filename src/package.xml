@@ -37,7 +37,7 @@
         <name>StaticResource</name>
     </types>
     <types>
-        <members>Contact</members>
+        <members>Contacts</members>
         <name>Workflow</name>
     </types>
     <version>26.0</version>
